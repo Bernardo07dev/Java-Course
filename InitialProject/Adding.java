@@ -1,3 +1,4 @@
+package InitialProject;
 import java.util.Scanner;
 
 public class Adding{
