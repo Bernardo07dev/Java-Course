@@ -1,5 +1,5 @@
-package JavaCourse.TriangleEx;
-import JavaCourse.TriangleEx.Triangle;
+package TriangleEx;
+import TriangleEx.Triangle;
 
 public class Main{
     public static void main(String[] args){

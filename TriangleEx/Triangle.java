@@ -1,5 +1,4 @@
-package JavaCourse.TriangleEx;
-
+package TriangleEx;
 public class Triangle {
     double a;
     double b;
